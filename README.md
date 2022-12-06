@@ -1,5 +1,5 @@
 # ImageProcessingHackathon-SuperAI
-## By:
+## By: Parinthapat Pengpun
 This repo holds **winning 1st Place Notebook** in the **SuperAI Season 3 Image Processing Hackathon**! 
 
 ![](https://raw.githubusercontent.com/parinzee/ImageProcessingHackathon-SuperAI/main/Leaderboard.png)
